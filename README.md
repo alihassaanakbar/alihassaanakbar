@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer+%F0%9F%92%BB;Python+Enthusiast+%F0%9F%90%8D;Game+Dev+Enthusiast+%F0%9F%8E%AE;Build.+Break.+Learn.+Repeat.+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer+%F0%9F%92%BB;Android+%2B+Firebase+Developer+%F0%9F%93%B1;Full-Stack+Learner+%F0%9F%9A%80;Build.+Break.+Learn.+Repeat.+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,16 +50,23 @@ public:
 **Languages**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Mobile & Frameworks**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
@@ -67,6 +74,7 @@ public:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -85,6 +93,23 @@ public:
 | [🚢 BattleShip](https://github.com/alihassaanakbar/BattleShip) | 2-player console Battleship with color-coded fleets, pass-and-play screen clearing to hide ship positions, and full placement/strike validation. | `C++` `Windows Console API` |
 | [💰 Loan Management System](https://github.com/alihassaanakbar/Loan-Management-System) | Interest-free loan ledger for a small lending business — password-protected records, installments, binary backup/restore, history log and live summary. | `C++` `File Handling` |
 | [❌ Tic Tac Toe](https://github.com/alihassaanakbar/Tic-Tac-Toe) | Classic 2-player terminal game with custom player names, a colorized grid, and input validation that survives bad typing. | `C++` `Windows Console API` |
+
+</div>
+
+### 🔒 Private Projects
+
+Built and completed, kept private for security reasons — happy to walk through the architecture or share access on request.
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | 🔧 Tech |
+|:---:|:---|:---:|
+| 🛡️ **ShieldSOS** | Android personal-safety & anti-theft app — one-tap SOS to a trusted guardian network, live location streaming, silent evidence capture, and a device-admin theft lockdown. MVVM + Hilt, 11 Cloud Functions, default-deny Firestore/RTDB/Storage rules, custom HMAC-hashed email OTP. | `Kotlin` `Jetpack Compose` `Firebase` `Hilt` |
+| 🎭 **Mafia Civil War** | Real-time multiplayer social-deduction mobile game — server-authoritative game loop with per-player secret state, phase state machine, and live voice. | `React Native` `Expo` `Colyseus` `Supabase` |
+
+</div>
+
+<div align="center">
 
 </div>
 
@@ -141,7 +166,7 @@ public:
 
 <div align="center">
 
-### 💼 Open to internships, freelance projects & exciting collaborations in C++, game development & full-stack web!
+### 💼 Open to internships, freelance projects & exciting collaborations in C++, Android and full-stack development!
 
 </div>
 
