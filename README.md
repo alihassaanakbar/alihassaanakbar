@@ -105,7 +105,7 @@ Built and completed, kept private for security reasons — happy to walk through
 | 🚀 Project | 📝 Description | 🔧 Tech |
 |:---:|:---|:---:|
 | 🛡️ **ShieldSOS** | Android personal-safety & anti-theft app — one-tap SOS to a trusted guardian network, live location streaming, silent evidence capture, and a device-admin theft lockdown. MVVM + Hilt, 11 Cloud Functions, default-deny Firestore/RTDB/Storage rules, custom HMAC-hashed email OTP. | `Kotlin` `Jetpack Compose` `Firebase` `Hilt` |
-| 🎭 **Mafia Civil War** | Real-time multiplayer social-deduction mobile game — server-authoritative game loop with per-player secret state, phase state machine, and live voice. | `React Native` `Expo` `Colyseus` `Supabase` |
+| 🎭 **Mafia Civil War (In-progress)** | Real-time multiplayer social-deduction mobile game — server-authoritative game loop with per-player secret state, phase state machine, and live voice. | `React Native` `Expo` `Colyseus` `Supabase` |
 
 </div>
 
